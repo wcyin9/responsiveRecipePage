@@ -120,7 +120,7 @@ img {
 
 /*.nutriDesc { padding-bottom: 24px; }*/
 
-table tr:not(last-child) {
+table tr:not(:last-child) {
 	border-bottom: 1px solid #E3DDD7;
 }
 
